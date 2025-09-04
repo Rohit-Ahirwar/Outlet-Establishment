@@ -49,10 +49,12 @@ To analyze and visualize Blinkit’s sales performance across outlets by locatio
    * Provide actionable insights for **business growth strategies**.
 
 ### Dataset Used
+<a href="https://github.com/Rohit-Ahirwar/Outlet-Establishment/blob/main/BlinkIt%20Grocery%20Excel%20Data.xlsx">Blinkit_Grocery_Excel_Data</a>
 
+<a href="https://github.com/Rohit-Ahirwar/Outlet-Establishment/blob/main/Blinkit%20Analytics.pbix">Blinkit_Analytics</a>
 
 ### Deshboard
-
+<a href="https://github.com/Rohit-Ahirwar/Outlet-Establishment/blob/main/Blinkit%20Deshboard.png">Blinkit_Deshboard</a>
 
 ## Final Conclusion
 
