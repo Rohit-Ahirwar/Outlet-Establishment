@@ -1,4 +1,4 @@
-# Outlet-Establishment
+# Outlet-Establishment (Blinkit)
 
 ## Project Objective
 
