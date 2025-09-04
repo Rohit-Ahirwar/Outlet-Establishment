@@ -1,4 +1,4 @@
-# Outlet-Establishment (Blinkit)
+# Analyze_Blinkit’s_sales_data
 
 ## Project Objective
 
